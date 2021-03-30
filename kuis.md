@@ -1,7 +1,5 @@
 # Soal Kuis Prakerja Wordpress
 
-
-
 ## Topik 1 - Pengenalan Wordpress
 
 ### Apa itu Wordpress?
@@ -86,7 +84,7 @@
   - **codepolitan:com**
   - devschool.id
   - wordpress.org
-  
+
 ## Topik 2 - Persiapan Proyek
 
 ### Installasi Laragon
@@ -394,8 +392,4 @@
   - Alamat dari pembeli
   - Alamat Email
   - Alamat Rumah
-
-
-
-
 
