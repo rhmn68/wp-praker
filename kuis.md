@@ -250,15 +250,120 @@
 
 ### Pemasangan Plugin Toko Online
 
+- Menu yang dapat memasang plugin di wordpress adalah...
+
+- **Plugin**
+- Tampilan
+- Komentar
+- Pos
+
+- Plugin untuk e-commerce di wordpress adalah...
+
+- **WooCommerce**
+- Facebook
+- Hello Dolly
+- Anti-Spam
+
+- Bagaimana cara memasang plugin di wordpress?
+
+- **Plugin -> Tambah Baru -> Cari Plugin -> Install Sekarang -> Aktifkan**
+- Komentar -> Cari Plugin -> Install Sekarang -> Aktifkan
+- Plugin Terpasang -> Aktifkan
+- Penyunting Plugin -> Cari Plugin -> Aktifkan
+
+- Berikut ini tipe produk yang disediakan oleh WooCommerce, kecuali...
+
+- **Travel**
+- Produk Fisik
+- Unduhan
+- Berlangganan
+
+- Berikut ini data-data yang harus diisi di bagian rincian toko, kecuali...
+
+- **Detail Toko, Industri, Tipe Produk, Detail Bisnis, Tema**
+- Alamat, Nama Penjual
+- Alamat, Nama Penjual, Nama Toko, Nomor Rekening
+- Detail Toko, Alamat, Nama Toko, Nomor Telepon Toko, Nomor Rekening
+
 ### Menambahkan Produk
+
+- Berikut ini yang dapat dilakukan di menu tambah produk, kecuali...
+
+- **Menambahkan Metode Pembayaran**
+- Menambahkan Data Produk
+- Mengatur Jenis Mata Uang
+- Menambahkan Deskripsi Produk
+
+- Bagaimana cara mengatur jenis mata uang yang ada di WooCommerce ke Rupiah?
+
+- **WooCommerce -> Pengaturan -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)**
+- WooCommerce -> Pengaturan -> Opsi Umum -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)
+- WooCommerce -> Pengaturan -> Opsi Umum -> Mata Uang -> Rupiah Indonesia
+- WooCommerce -> Pengaturan Produk -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)
 
 ### Menyiapkan Metode Pembayaran
 
+- Opsi pembayaran yang disediakan oleh WooCommerce, kecuali...
+
+- **Bayar Nanti**
+- Paypal
+- Bayar di tempat
+- Transfer Bank Langsung
+
+- Data yang harus diisi jika menggunakan metode pembayaran transfer bank adalah...
+
+- **Nama Rekening, Nomor Rekening, Nama Bank**
+- Nama Rekening, Nomor Telepon, Nama Bank
+- Nomor Telepon, Alamat Rumah
+- Nama Rekening, Alamat Rumah, Nomor Telepon
+
 ### Pengaturan Biaya Pengiriman
+
+- Untuk menetapkan biaya pengiriman terdapat di bagian menu?
+
+- **Siapkan Pengiriman**
+- Tambah Produk
+- Siapkan Pajak
+- Siapkan Pembayaran
+
+- Untuk melihat pesanan baru terdapat dibagian menu?
+
+- **WooCommerce -> Pesanan**
+- WooCommerce -> Laporan
+- WooCommerce -> Kupon
+- WooCommerce -> Pelanggan
 
 ### Menyiapkan Tampilan dari Website Toko Online
 
+- Plugin yang digunakan untuk mengatur tampilan adalah...
+
+- **Elementor**
+- WooCommerce
+- Anti-Spam
+- Hello Dolly
+
+- Di bagian laman, untuk memulai edit dengan elementor kita harus mengklik tombol...
+
+- **Edit With Elementor**
+- Edit With WooCommerce
+- Edit With Anti-Spam
+- Edit With Hello Dolly
+
 ### Perhitungan Ongkos Kirim
+
+- Plugin yang berguna untuk menyusaikain harga ongkir adalah...
+
+- **Woongkir**
+- WooCommerce
+- Hello Ongkir
+- Hi Ongkir
+
+- Data yang harus diisi untuk menggunakan plugin woongkir adalah...
+
+- **Alamat dari paket yang akan dikirim**
+- Alamat dari pembeli
+- Alamat Email
+- Alamat Rumah
 
 
 
