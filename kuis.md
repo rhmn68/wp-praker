@@ -5,6 +5,7 @@
 ## Topik 1 - Pengenalan Wordpress
 
 ### Apa itu Wordpress?
+
 - Wordpress adalah salah satu CMS populer yang banyak digunakan orang. CMS singkatan dari...
   - Content Mastery Spesification
   - Creator Maker Software
@@ -35,8 +36,41 @@
   - Online & Offline
   - Blog & Community
   - **Plugins dan Themes**
+- Siapa salah satu founder dari wordpress?
+  - **Matthew Charles Mullenweg**
+  - Bill Gates
+  - Steve Job
+  - Mark Zuckerberg
+- Wordpress memiliki banyak fitur salah satunya yaitu themes, fungsi dari themes adalah?
+  - **Untuk mengatur tampilan**
+  - Mengatur Jumlah Pengunjung
+  - Menambahkan Plugin
+  - Menambahkan Produk
 
 ### Mengenal Domain dan Hosting
+
+- Sebuah layanan yang menyediakan tempat penyimpanan data-data dari sebuah website yang hanya dapat di akses di local, merupakan pengertian dari...
+  - **Localhost**
+  - Hosting
+  - Domain
+  - Website
+
+- Sebuah layanan yang menyediakan tempat penyimpanan data-data dari sebuah website agar dapat diakses secara online, merupakan pengertian dari...
+  - **Hosting**
+  - Domain
+  - Aplikasi
+  - Website
+- Sebelum kita upload ke server website kita, kita akan mendevelop aplikasi kita di...
+  - **Localhost**
+  - Domain
+  - Website
+  - Internet Protocol
+- Kenapa kita mendevelop website di localhost terlebih dahulu sebelum di upload ke server?
+  - **Agar lebih ringan dan tidak mengakses internet terlalu banyak**
+  - Agar lebih aman dari serangan hacker
+  - Agar lebih meringankan kerja developer
+  - Agar sharing file menjadi lebih mudah
+
 - Penamaan yang digunakan sebagai identitas untuk memudahkan mengakses sebuah situs web dinamakan...
   - Internet Protocol
   - **Domain**
@@ -52,9 +86,7 @@
   - **codepolitan:com**
   - devschool.id
   - wordpress.org
-
-
-
+  
 ## Topik 2 - Persiapan Proyek
 
 ### Installasi Laragon
