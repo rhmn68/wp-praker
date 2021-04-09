@@ -391,265 +391,274 @@
   - Alamat Email
   - Alamat Rumah
 
-## Exam 
+## Exam
 
-- Wordpress adalah salah satu CMS populer yang banyak digunakan orang. CMS singkatan dari... 
-  - Content Mastery Spesification
-  - Creator Maker Software
-  - **Content Management System**
-  - Content Management Software
-- CMS Wordpress dikembangkan dengan menggunakan bahasa pemrograman...
-  - Java
-  - **PHP**
-  - Perl
-  - Python
-- Untuk mengakses sebuah situs web kita menggunakan aplikasi yang dinamakan...
-  - **Browser**
-  - Spreadsheet
-  - Mailing List
-  - Calculator
-- Berikut ini yang BUKAN merupakan aplikasi browser adalah...
-  - Google Chrome
-  - **Microsoft Word**
-  - Mozilla Firefox
-  - Microsoft Edge
-- CMS WordPress dikembangkan sejak tahun...
-  - **2003**
-  - 2013
-  - 1989
-  - 2021
-- WordPress hadir dengan dua fitur unggulan untuk membantu kita membuat situs web dengan fasilitas dan tampilan yang kita inginkan, yaitu...
-  - Domain & Hosting
-  - Online & Offline
-  - Blog & Community
-  - **Plugins dan Themes**
-- Siapa salah satu founder dari wordpress?
-  - **Matthew Charles Mullenweg**
-  - Bill Gates
-  - Steve Job
-  - Mark Zuckerberg
-- Wordpress memiliki banyak fitur salah satunya yaitu themes, fungsi dari themes adalah?
-  - **Untuk mengatur tampilan**
-  - Mengatur Jumlah Pengunjung
-  - Menambahkan Plugin
-  - Menambahkan Produk
+1. CMS memudahkan kita untuk membuat website tanpa perlu coding. Terdapat berbagai CMS untuk membuat website dan WordPress adalah salah satunya. Singkatan dari CMS adalah...
+   - Content Mastery Spesification
+   - Creator Maker System
+   - **Content Management System**
+   - Content Management Software
 
-- Sebuah layanan yang menyediakan tempat penyimpanan data-data dari sebuah website yang hanya dapat di akses di local, merupakan pengertian dari...
-  - **Localhost**
-  - Hosting
-  - Domain
-  - Website
+2. CMS dibuat menggunakan bahasa pemrograman...
+   - Java
+   - **PHP**
+   - Dart
+   - Kotlin
 
-- Sebuah layanan yang menyediakan tempat penyimpanan data-data dari sebuah website agar dapat diakses secara online, merupakan pengertian dari...
-  - **Hosting**
-  - Domain
-  - Aplikasi
-  - Website
-- Sebelum kita upload ke server website kita, kita akan mendevelop aplikasi kita di...
-  - **Localhost**
-  - Domain
-  - Website
-  - Internet Protocol
+3. Untuk membuka halaman sebuah website, kita harus menggunakan aplikasi ?
+   - **Browser**
+   - Spreadsheet
+   - Chess
+   - Calculator
 
-- Berikut ini aplikasi yang dapat digunakan untuk menginstall web server di komputer kita, kecuali... 
-  - Laragon
-  - XAMPP
-  - LAMP
-  - **Android**
-- Wordpress berjalan di atas komputer yang terhubung ke internet dan dapat diakses secara publik. Komputer yang dimaksud biasa disebut dengan istilah... 
-  - **Server**
-  - Client
-  - Peer-to-peer
-  - Adhoc
-- Di bawah ini yang merupakan aplikasi untuk menginstall web server di komputer kita adalah... 
-  - **Laragon**
-  - Spreadsheet
-  - Writer
-  - Scanner
-- Dua perangkat lunak utama yang harus diaktifkan di aplikasi Laragon untuk dapat menjalankan web server adalah... 
-  - PHPMyAdmin dan HeidiSQL
-  - **Apache dan MySQL**
-  - VHost dan Terminal
-  - Mailcatcher dan NodeJS
+4. Berikut ini adalah aplikasi browser, kecuali...
+   - Google Chrome
+   - **Calculator**
+   - Safari
+   - Opera
 
-- Perangkat lunak yang digunakan untuk menyimpan database wordpress adalah... 
-  - Borland Delphi
-  - Microsoft Access
-  - **MySQL**
-  - Google Chrome
-- Berikut ini yang bukan merupakan perangkat lunak untuk menyimpan database adalah... 
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - **TikTok**
-- Nama folder tempat kita menyimpan WordPress di Laragon adalah... 
-  - **laragon/www**
-  - public
-  - php
-  - system32
-- CMS Wordpress dapat diunduh di situs web yang beralamat di... 
-  - **wordpress.org**
-  - blogspot.com
-  - medium.com
-  - wp-id.org
+5. Wordpress mulai dikembangkan pada tahun ..
+   - **2003**
+   - 2021
+   - 1989
+   - 2000
 
-- Salah satu aplikasi yang dapat digunakan untuk mengakses data pada database adalah... 
-  - NoSQL
-  - **HeidiSQL**
-  - Microsoft Word
-  - Microsoft Edge
-- Berikut ini beberapa nama aplikasi yang umum digunakan untuk mengakses data pada database MySQL, kecuali...  
-  - HeidiSQL
-  - PHPMyAdmin
-  - Adminer
-  - **Telegram**
-- Alamat domain website yang berjalan di server komputer lokal kita umumnya menggunakan nama... 
-  - **localhost**
-  - localcomputer
-  - localtest
-  - onlinehost
+6. 2 fitur andalan dari wordpress untuk membantu kita membuat website dengan tampilan yang kita inginkan, yaitu...
+   - Domain & Hosting
+   - Online & Offline
+   - Blog & Community
+   - **Plugins dan Themes**
 
-- Bagian dari halaman fitur Wordpress yang berisi informasi umum dan pintasan adalah... 
-  - **Dasbor**
-  - Post
-  - Page
-  - Media
-- Berikut ini pernyataan yang TIDAK tepat terkait fitur dashboard adalah... 
-  - **Kita dapat langsung memasang plugin baru melalui dashboard**
-  - Kita dapat membuat artikel cepat melalui halaman dashboard
-  - Halaman dashboard memuat informasi terbaru seputar Wordpress 
-  - Kita dapat melompat ke halaman fitur-fitur utama melalui pintasan yang disediakan di dashboard
+7. Berikut ini yang bukan pendiri atau founder dari wordpress, kecuali...
+   - **Matthew Charles Mullenweg**
+   - Bill Gates
+   - Steve Job
+   - Mark Zuckerberg
 
-- Fitur Wordpress yang ditujukan untuk membuat artikel adalah... 
-  - Plugin
-  - **Post**
-  - Category
-  - Settings
-- Untuk mempublikasikan konten yang terkait erat dengan waktu publikasi, kita menggunakan fitur... 
-  - **Post**
-  - Tampilan
-  - Tema
-  - Woocommerce
-- Untuk mempublikasikan konten yang TIDAK terkait dengan waktu publikasi, kita menggunakan fitur... 
-  - Plugin
-  - **Laman**
-  - Instalasi
-  - Woocommerce
-- Berikut ini pernyataan yang TIDAK benar terkait fitur Post di WordPress adalah... 
-  - Kita dapat mengatur kapan waktu penerbitan artikel
-  - **Kita hanya dapat memasang satu kategori untuk setiap artikel**
-  - Artikel tidak akan dapat disimpan dan diterbitkan bila judul artikel tidak diisi
-  - Kita dapat mengelompokkan artikel berdasarkan kategori tertentu
+8. Didalam wordpress terdapat salah satu fitur yaitu themes, fungsi dari fitur themes adalah?
+   - **Untuk mengatur tampilan**
+   - Mengatur Jumlah Pengunjung
+   - Menambahkan Plugin
+   - Menambahkan Produk
 
-- Fitur di Wordpress yang ditujukan untuk mengelompokkan jenis artikel adalah... 
-  - **Kategori**
-  - Impor
-  - Ekspor
-  - Elementor
+9. Tempat menyimpan data-data website yang hanya bisa di akses di local saja, merupakan pengertian dari...
+   - **Localhost**
+   - Hosting
+   - Domain
+   - Website
 
-- Untuk menambahkan gambar di bagian atas artikel kita menggunakan artibut Post yang bernama... 
-  - Publish
-  - **Gambar Andalan**
-  - Kategori
-  - Kutipan
+10. Tempat menyimpan data-data website yang dapat di akses secara online, merupakan pengertian dari...
+    - **Hosting**
+    - Domain
+    - Aplikasi
+    - Website
 
-- Fitur Wordpress yang ditujukan untuk mengunggah gambar dan file lain adalah... 
-  - Pengguna
-  - Peralatan 
-  - Pengaturan
-  - **Media**
+11. Tempat menyimpan data website saat kita masih mendevelop website tersebut, dinamakan...
+    - **Localhost**
+    - Domain
+    - Website
+    - Internet Protocol
 
-- Fitur Wordpress yang ditujukan untuk membuat halaman konten statis adalah... 
-  - **Laman**
-  - Tampilan
-  - Pengaturan
-  - Peralatan
+12. Aplikasi berikuti ini merupakan aplikasi yang dapat digunakan sebagai web server di komputer kita, kecuali... 
+    - Laragon
+    - XAMPP
+    - LAMP
+    - **Android**
 
-- Fitur Wordpress yang ditujukan untuk mengatur penampilan website adalah... 
-  - Peralatan
-  - **Tampilan**
-  - Pengguna
-  - Post
-- Berikut ini pernyataan yang TIDAK tepat terkait fitur Tampilan di WordPress adalah... 
-  - Kita dapat melakukan pencarian tema tampilan yang tersedia yang dapat dipasang di WordPress
-  - Kita dapat mengganti keseluruhan tampilan situs web dengan mengganti tema
-  - Kita dapat mengatur atribut situs web seperti judul web hingga pewarnaan melalui panel kustomisasi tema
-  - **Kita dapat memasang plugin dari dalam halaman pengaturan tampilan**  
+13. Wordpress dapat disimpan datanya di komputer yang terhubung ke internet dan dapat diakses secara publik. Komputer yang dimaksud biasa disebut dengan istilah... 
+    - **Server**
+    - Client
+    - Peer-to-peer
+    - Adhoc
 
-- Menu yang dapat memasang plugin di wordpress adalah... 
+14. Di bawah ini yang merupakan aplikasi untuk menginstall web server di komputer kita adalah... 
+    - **Laragon**
+    - Spreadsheet
+    - Writer
+    - Scanner
 
-  - **Plugin**
-  - Tampilan
-  - Komentar
-  - Pos
+15. Dua aplikasi utama yang harus dijalankan di aplikasi Laragon agar dapat menjalankan web server di komputer kita adalah... 
+    - PHPMyAdmin dan HeidiSQL
+    - **Apache dan MySQL**
+    - VHost dan Terminal
+    - Mailcatcher dan NodeJS
 
-- Plugin untuk e-commerce di wordpress adalah... 
+16. Perangkat lunak yang digunakan untuk menyimpan database wordpress adalah... 
+    - Borland Delphi
+    - Microsoft Access
+    - **MySQL**
+    - Google Chrome
 
-  - **WooCommerce**
-  - Facebook
-  - Hello Dolly
-  - Anti-Spam
+17. Berikut ini merupakan aplikasi yang dapat menyimpan database, kecuali... 
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - **TikTok**
 
-- Bagaimana cara memasang plugin di wordpress? 
+18. Wordpress dapat kita jalankan di localhost melalui aplikasi Laragon, nama folder yang digunakan untuk menyimpan data websiter di laragon adalah... 
+    - **laragon/www**
+    - public
+    - public_html
+    - system32
 
-  - **Plugin -> Tambah Baru -> Cari Plugin -> Install Sekarang -> Aktifkan**
-  - Komentar -> Cari Plugin -> Install Sekarang -> Aktifkan
-  - Plugin Terpasang -> Aktifkan
-  - Penyunting Plugin -> Cari Plugin -> Aktifkan
+19. CMS Wordpress sudah disediakan di situs resminya dan dapat kita unduh di alamat web... 
+    - **wordpress.org**
+    - blogspot.com
+    - medium.com
+    - wp-id.org
 
-- Berikut ini tipe produk yang disediakan oleh WooCommerce, kecuali... 
+20. Database digunakan untuk menyimpan data yang berada di website kita, salah satu aplikasi yang dapat digunakan untuk mengakses data pada database tersebut adalah... 
+    - NoSQL
+    - **HeidiSQL**
+    - Microsoft Word
+    - Microsoft Edge
 
-  - **Travel**
-  - Produk Fisik
-  - Unduhan
-  - Berlangganan
+21. Berikut ini aplikasi yang dapat digunakan untuk mengkases database MySQL, kecuali...  
+    - HeidiSQL
+    - PHPMyAdmin
+    - Adminer
+    - **Whats App**
 
-- Berikut ini data-data yang harus diisi di bagian rincian toko, kecuali... 
+22. Ketika kita menjalan web server yang berada di local seperti laragon, nama dari alamat domain yang beradi di local umumnya menggunakan nama...
+    - **localhost**
+    - localcomputer
+    - localtest
+    - onlinehost
 
-  - **Detail Toko, Industri, Tipe Produk, Detail Bisnis, Tema**
-  - Alamat, Nama Penjual
-  - Alamat, Nama Penjual, Nama Toko, Nomor Rekening
-  - Detail Toko, Alamat, Nama Toko, Nomor Telepon Toko, Nomor Rekening
+23. Halaman wordpress yang berisikan fitur-fitur yang dapat di akses secara cepat dan berisikan informasi umum adalah...
+    - **Dasbor**
+    - Post
+    - Page
+    - Media
 
-- Berikut ini yang dapat dilakukan di menu tambah produk, kecuali... 
+24. Pernyataan berikut ini yang TIDAK tepat terkait fitur dashboard adalah... 
+    - **Kita dapat langsung memasang plugin baru melalui dashboard**
+    - Kita dapat membuat artikel cepat melalui halaman dashboard
+    - Halaman dashboard memuat informasi terbaru seputar Wordpress 
+    - Kita dapat melompat ke halaman fitur-fitur utama melalui pintasan yang disediakan di dashboard
 
-  - **Menambahkan Metode Pembayaran**
-  - Menambahkan Data Produk
-  - Mengatur Jenis Mata Uang
-  - Menambahkan Deskripsi Produk
+25. Wordpress dapat membuat sebuah artikel dengan menggunakan fitur... 
+    - Plugin
+    - **Post**
+    - Category
+    - Settings
 
-- Bagaimana cara mengatur jenis mata uang yang ada di WooCommerce ke Rupiah? 
+26. Untuk mempublikasikan sebuah artikel yang dapat di akses oleh publik, kita menggunakan fitur... 
+    - **Post**
+    - Tampilan
+    - Tema
+    - Woocommerce
 
-  - **WooCommerce -> Pengaturan -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)**
-  - WooCommerce -> Pengaturan -> Opsi Umum -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)
-  - WooCommerce -> Pengaturan -> Opsi Umum -> Mata Uang -> Rupiah Indonesia
-  - WooCommerce -> Pengaturan Produk -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)
+27. Untuk mempublikasikan konten yang TIDAK terkait dengan waktu publikasi, kita menggunakan fitur... 
+    - Plugin
+    - **Laman**
+    - Instalasi
+    - Woocommerce
 
-- Opsi pembayaran yang disediakan oleh WooCommerce, kecuali... 
+28. Pernyataan berikut ini yang kurang tepat terkait fitur Post di WordPress adalah... 
+    - Kita dapat mengatur kapan waktu penerbitan artikel
+    - **Kita hanya dapat memasang satu kategori untuk setiap artikel**
+    - Artikel tidak akan dapat disimpan dan diterbitkan bila judul artikel tidak diisi
+    - Kita dapat mengelompokkan artikel berdasarkan kategori tertentu
 
-  - **Bayar Nanti**
-  - Paypal
-  - Bayar di tempat
-  - Transfer Bank Langsung
+29. Wordpress dapat mengelompokan artikel-artikel dengan menggunakan fitur... 
+    - **Kategori**
+    - Impor
+    - Ekspor
+    - Elementor
 
-- Data yang harus diisi jika menggunakan metode pembayaran transfer bank adalah... 
+30. Untuk menambahkan gambar di bagian atas artikel kita menggunakan artibut Post yang bernama... 
+    - Publish
+    - **Gambar Andalan**
+    - Kategori
+    - Kutipan
 
-  - **Nama Rekening, Nomor Rekening, Nama Bank**
-  - Nama Rekening, Nomor Telepon, Nama Bank
-  - Nomor Telepon, Alamat Rumah
-  - Nama Rekening, Alamat Rumah, Nomor Telepon
+31. Wordpress dapat mengunggah sebuah gambar ataupun file lainnya dengan menggunakan fitur... 
+    - Pengguna
+    - Peralatan 
+    - Pengaturan
+    - **Media**
 
-- Untuk menetapkan biaya pengiriman terdapat di bagian menu? 
+32. Wordpress dapat membuat sebuah halaman konten statis dengan menggunakan fitur...
+    - **Laman**
+    - Tampilan
+    - Pengaturan
+    - Peralatan
 
-  - **Siapkan Pengiriman**
-  - Tambah Produk
-  - Siapkan Pajak
-  - Siapkan Pembayaran
+33. Fitur yang dapat merubah penampilan di wordpress, menggunakan fitur...
+    - Peralatan
+    - **Tampilan**
+    - Pengguna
+    - Post
 
-- Untuk melihat pesanan baru terdapat dibagian menu? 
+34. Pernyataan berikut ini yang kurang tepat terkait fitur Tampilan di WordPress adalah... 
+    - Kita dapat melakukan pencarian tema tampilan yang tersedia yang dapat dipasang di WordPress
+    - Kita dapat mengganti keseluruhan tampilan situs web dengan mengganti tema
+    - Kita dapat mengatur atribut situs web seperti judul web hingga pewarnaan melalui panel kustomisasi tema
+    - **Kita dapat memasang plugin dari dalam halaman pengaturan tampilan**  
 
-  - **WooCommerce -> Pesanan**
-  - WooCommerce -> Laporan
-  - WooCommerce -> Kupon
-  - WooCommerce -> Pelanggan
+35. Salah satu keunggulan wordpress adalah dapat memasang plugin, fitur yang dapat memasang plugin adalah...
+    - **Plugin**
+    - Tampilan
+    - Komentar
+    - Pos
 
+36. Plugin yang digunakan untuk keperluan toko online di wordpress adalah... 
+    - **WooCommerce**
+    - Facebook
+    - Hello Dolly
+    - Anti-Spam
+
+37. Berikut ini terdapat langkah-langkah untuk memasang plugin, mana langkah-langkah yang terpat untuk memasang plugin di wordpress ?
+    - **Plugin -> Tambah Baru -> Cari Plugin -> Install Sekarang -> Aktifkan**
+    - Komentar -> Cari Plugin -> Install Sekarang -> Aktifkan
+    - Plugin Terpasang -> Aktifkan
+    - Penyunting Plugin -> Cari Plugin -> Aktifkan
+
+38. Didalam plugin WooCommerce terdapat tipe-tipe produk yang sudah disediakan oleh WooCommerce. Berikut ini tipe produk yang disediakan oleh WooCommerce, kecuali... 
+    - **Travel**
+    - Produk Fisik
+    - Unduhan
+    - Berlangganan
+
+39. Dibawah ini merupakan data-data yang wajib diisi di bagian rincian toko, kecuali... 
+    - **Detail Toko, Industri, Tipe Produk, Detail Bisnis, Tema**
+    - Alamat, Nama Penjual
+    - Alamat, Nama Penjual, Nama Toko, Nomor Rekening
+    - Detail Toko, Alamat, Nama Toko, Nomor Telepon Toko, Nomor Rekening
+
+40. Dibagian menu tambah produk dapat melakukan hal berikut ini, kecuali... 
+    - **Menambahkan Metode Pembayaran**
+    - Menambahkan Data Produk
+    - Mengatur Jenis Mata Uang
+    - Menambahkan Deskripsi Produk
+
+41. Di WooCommerce dapat mengatur jenius mata uang, bagaimana cara mengaturnya ?
+    - **WooCommerce -> Pengaturan -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)**
+    - WooCommerce -> Pengaturan -> Opsi Umum -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)
+    - WooCommerce -> Pengaturan -> Opsi Umum -> Mata Uang -> Rupiah Indonesia
+    - WooCommerce -> Pengaturan Produk -> Pilihan Mata Uang -> Mata Uang -> Rupiah Indonesia (Rp)
+
+42. Terdapat beberapa pilihan jenis pembayaran yang disediakan oleh WooCommerce, kecuali... 
+    - **Bayar Nanti**
+    - Paypal
+    - Bayar di tempat
+    - Transfer Bank Langsung
+
+43. Data-data apa saja yang harus diisi jika kita menggunakan metode pembayaran transfer bank ? 
+    - **Nama Rekening, Nomor Rekening, Nama Bank**
+    - Nama Rekening, Nomor Telepon, Nama Bank
+    - Nomor Telepon, Alamat Rumah
+    - Nama Rekening, Alamat Rumah, Nomor Telepon
+
+44. Menu yang dapat menetapkan biaya pengiriman terdapat di bagian ? 
+    - **Siapkan Pengiriman**
+    - Tambah Produk
+    - Siapkan Pajak
+    - Siapkan Pembayaran
+
+45. Dimanakah kita dapat melihat pesan yang baru ?
+    - **WooCommerce -> Pesanan**
+    - WooCommerce -> Laporan
+    - WooCommerce -> Kupon
+    - WooCommerce -> Pelanggan
